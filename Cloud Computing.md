@@ -1,6 +1,6 @@
 ## What is Cloud Computing?
 
-Cloud Computing is the on-demand delivery of scalable Computing resources like servers, storage, database, networks, etc. in the [[Cloud]] (not in your garage)
+Cloud Computing is the on-demand delivery of scalable Computing resources like servers, storage, database, networks, etc. in the [[Cloud]]
 
 The big three Cloud service providers are:
 1. [[AWS|Amazon Web Services (AWS)]]
