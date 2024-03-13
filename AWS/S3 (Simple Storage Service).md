@@ -17,3 +17,20 @@ Amazon S3 offers a range of storage classes designed to serve different use-case
 
 ## Storage Management
 
+1. S3 Lifecycle
+2. S3 Object Lock
+3. S3 Replication
+4. S3 Batch Operations
+
+## Access Management and Security
+
+1. S3 Block Public Access
+2. AWS Identity and Access Management (IAM)
+3. Bucket policies
+4. Amazon S3 access points
+5. Access control lists (ACL)
+6. S3 Object Ownership
+7. IAM Access Analyzer
+
+
+

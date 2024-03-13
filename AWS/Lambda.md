@@ -7,3 +7,10 @@ Coming back to AWS Lambda, developers have to organize their code into Lambda fu
 ## Advantages
 
 AWS Lambda can be used when an application needs to scale up rapidly, then once again scale down to zero very soon! We can compare this with IPL matches, when the match is live demand is extremely high, and after 3 hours it is close to zero.
+
+In AWS Lambda developers are only responsible for Code, underlying infrastructure is managed by Lambda.
+## When to use Lambda
+
+1. File processing - with [[S3 (Simple Storage Service)|Amazon S3]]
+2. Stream processing - with [[Amazon Kinesis]]
+
