@@ -9,3 +9,4 @@ Below are some of the popular AWS services:
 4. [[Lambda]]
 5. [[VPC (Virtual Private Cloud)]]
 6. [[SQS (Simple Queue Service)]]
+7. [[IAM (Identity and Access Management)]]
