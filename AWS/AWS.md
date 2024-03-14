@@ -10,3 +10,7 @@ Below are some of the popular AWS services:
 5. [[VPC (Virtual Private Cloud)]]
 6. [[SQS (Simple Queue Service)]]
 7. [[IAM (Identity and Access Management)]]
+8. [[Amazon CloudFront]]
+9. [[Amazon EFS|EFS (Elastic File System]]
+10. [[Amazon ECS|ECS (Elastic Container Service)]]
+11. [[Amazon Fargate]]

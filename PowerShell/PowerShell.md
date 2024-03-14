@@ -1,4 +1,4 @@
-PowerShell is a cross-platform [[Command-line Interface (CLI)|CLI]] and a [[Scripting Language|scripting language]] which is widely used for Task automation. Although PowerShell is mostly used in [[Windows]], it can also be used in [[Linux]], [[MacOS]].
+PowerShell is a cross-platform [[Command-line Interface (CLI)|CLI]] and a [[Scripting Language|scripting language]] which is widely used for Task automation. PowerShell is mostly used in [[Windows]], but it can also be used in [[Linux]], [[MacOS]].
 
 The biggest advantage of PowerShell is that it can accept and return [[dot Net|.NET]] objects.
 
