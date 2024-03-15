@@ -14,3 +14,5 @@ Below are some of the popular AWS services:
 9. [[Amazon EFS|EFS (Elastic File System]]
 10. [[Amazon ECS|ECS (Elastic Container Service)]]
 11. [[Amazon Fargate]]
+12. [[Amazon Redshift]]
+13. [[Amazon EKS]]

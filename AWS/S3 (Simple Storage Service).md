@@ -28,7 +28,7 @@ Amazon S3 offers a range of storage classes designed to serve different use-case
 2. AWS Identity and Access Management (IAM)
 3. Bucket policies
 4. Amazon S3 access points
-5. Access control lists (ACL)
+5. [[Access control lists (ACL)]]
 6. S3 Object Ownership
 7. IAM Access Analyzer
 
