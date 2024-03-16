@@ -17,8 +17,9 @@ The biggest advantage of Cloud Computing is [[Psychology|Psychological]]. We don
 Some other advantages are:
 1. [[Agility]]
 2. [[Elasticity]]
-3. Lower Cost
-4. Go global in minutes
+3. [[Reliability]]
+4. Lower Cost
+5. Go global in minutes
 
 ## Types of Cloud Computing
 
