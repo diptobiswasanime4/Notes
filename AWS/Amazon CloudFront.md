@@ -1,3 +1,4 @@
+
 Amazon CloudFront is an AWS web service that distributes static and dynamic web content, like HTML, CSS, JS files, images and other resources to the users, through a worldwide network of data centers known as [[Edge Locations|edge locations]].
 
 When a user requests for the content, the request is sent to the nearest edge location, to deliver the content with lowest latency, and best performance.

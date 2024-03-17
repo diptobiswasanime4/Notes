@@ -1,3 +1,4 @@
+
 Computer Architecture is the study of the Design of [[Computer|Computers]] and their instruction sets, [[Hardware|Hardware components]] and system organization.
 
 ## [[Types of Computer Architecture]]

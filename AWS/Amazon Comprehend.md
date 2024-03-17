@@ -1,3 +1,4 @@
+
 Amazon Comprehend uses [[Natural Language Processing (NLP)]] to extract insights from the content of documents.
 
 Amazon Comprehend document analysis capabilities can be accessed using the Amazon Comprehend console or [[Application Programming Interface (API)|APIs]]

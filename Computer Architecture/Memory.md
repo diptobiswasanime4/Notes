@@ -1,3 +1,4 @@
+
 Memory is the faculty by which data or information is encoded, stored, and retrieved when required.
 
 Example - files, images, other media files, etc.

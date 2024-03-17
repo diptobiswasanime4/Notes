@@ -1,3 +1,4 @@
+
 Amazon Virtual Private Cloud (VPC) is a user-defined logically isolated virtual network.
 
 This is similar to a traditional network of a data center.

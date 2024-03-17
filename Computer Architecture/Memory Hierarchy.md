@@ -1,3 +1,4 @@
+
 To manage [[Memory]] it is essential to have a hierarchy.
 
 There are many factors to consider in a memory hierarchy:

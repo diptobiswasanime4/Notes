@@ -1,3 +1,4 @@
+
 AWS Lambda is a [[Serverless]] Compute service that lets developers run code without servers.
 
 This is similar to [[Vercel]] where developers can deploy and run their full-stack [[Next.js]] applications. It is however important to note when serving a large number of requests it is more cost-effective to use servers rather than going for [[Serverless|serverless]]

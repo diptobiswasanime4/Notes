@@ -1,3 +1,4 @@
+
 Amazon DynamoDB is a fully managed [[NoSQL Database]] service that provides fast and predictable performance, and seamless scalability.
 
 ## Features

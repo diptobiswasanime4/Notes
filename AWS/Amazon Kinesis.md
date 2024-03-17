@@ -1,3 +1,4 @@
+
 Amazon Kinesis Video Streams is a fully managed AWS service, to build apps with real-time video processing features.
 
 Video live streams can be managed from [[AWS Management Console]], or a home-grown monitoring application can also be used that uses the Kinesis Video Streams API.

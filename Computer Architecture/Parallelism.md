@@ -1,3 +1,4 @@
+
 Computer Architecture can be classified based on how they execute instructions.
 ## Types
 

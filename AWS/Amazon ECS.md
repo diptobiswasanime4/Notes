@@ -1,3 +1,4 @@
+
 Amazon Elastic Container Service (ECS) is a fully managed container orchestration service that allows developers to easily manage, deploy, and scale containerized applications.
 
 ## Layers of ECS
@@ -16,7 +17,7 @@ Amazon Elastic Container Service (ECS) is a fully managed container orchestratio
 The capacity can be located in:
 
 1. [[Availability Zone|Availability zones]]
-2. Local zones
+2. [[Local zones]]
 3. Wavelength zones
 4. AWS Regions
 5. AWS Outposts

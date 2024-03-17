@@ -1,1 +1,2 @@
+
 AWS Management Console is a web application that comprises and offers a broad collection of AWS services. After logging in as an [[IAM User]] or the [[Root User]] the first screen that we encounter is the AWS Management Console.
