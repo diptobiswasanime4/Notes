@@ -12,7 +12,7 @@ Amazon Elastic Container Service (ECS) is a fully managed container orchestratio
 
 1. [[EC2 (Elastic Compute Cloud)|EC2 instances]]
 2. [[Amazon Fargate]] (Serverless)
-3. On-premises
+3. [[On-Premises]]
 
 The capacity can be located in:
 

@@ -1,2 +1,2 @@
 
-AWS Prescriptive Guidance Patterns provide step-by-step methodology, tools and code for implementing cloud migration, modernization and deployment activities. It can be used to move an on-prem application to Cloud.
+AWS Prescriptive Guidance Patterns provide step-by-step methodology, tools and code for implementing cloud migration, modernization and deployment activities. It can be used to move an [[On-Premises|on-prem]] application to [[Cloud]]

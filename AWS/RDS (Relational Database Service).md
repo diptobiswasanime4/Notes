@@ -3,7 +3,7 @@ Amazon Relational Database Service (RDS) allows users to set up, operate and sca
 
 ## Types
 
-You can use on-prem Databases in Amazon [[EC2 (Elastic Compute Cloud)|EC2]] instances.
+You can use [[On-Premises|on-prem]] Databases in Amazon [[EC2 (Elastic Compute Cloud)|EC2]] instances.
 
 Amazon RDS on the other-hand is a managed Database service.
 
