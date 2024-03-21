@@ -9,7 +9,9 @@ There are many factors to consider in a memory hierarchy:
 4. Usage frequency
 
 ![[Memory Hierarchy.png]]
-## Memory Interface
+
+In this Pyramid Access time, size decreases, and Cost, Usage frequency increases from base to top.
+## [[Memory Interface]]
 
 - This is part of [[Computer Organization]]
 - Deals with connecting various levels of memory units with Processor & I/O Peripherals

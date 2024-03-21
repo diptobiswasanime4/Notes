@@ -1,3 +1,4 @@
+Created: March-21-2024
 
 Amazon Comprehend uses [[Natural Language Processing (NLP)]] to extract insights from the content of documents.
 
@@ -22,3 +23,10 @@ Amazon Comprehend uses a pre-trained model to examine and analyze documents. Bel
 3. Integrate with other [[AWS|AWS services]]
 4. Encryption of outputs
 5. Cost-effective
+# Related Notes
+
+1. [[AWS Docs]]
+2. [[AWS]]
+# References
+
+1. 

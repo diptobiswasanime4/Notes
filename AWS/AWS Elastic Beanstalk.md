@@ -6,7 +6,7 @@ With AWS Elastic Beanstalk users can quickly deploy and manage applications with
 
 Developers can interact with Elastic Beanstalk using the Elastic Beanstalk Console, the [[AWS Command Line Interface (CLI)]], or eb, a high-level CLI designed particularly for Elastic Beanstalk.
 
-![[Beanstalk.excalidraw]]
+![[Beanstalk_excal.excalidraw]]
 # Related Notes
 
 1. [[AWS Docs]]

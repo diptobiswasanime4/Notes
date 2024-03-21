@@ -8,7 +8,7 @@ VPC will have one [[Subnet|subnet]] in each [[Availability Zone]]. [[EC2 (Elasti
 ![[VPC.png]]
 ## [[Subnet]]
 
-A subnet is a range of IP addresses in the VPC. [[AWS| AWS resources]] are deployed in the subnet.
+A subnet is a range of [[IP address|IP addresses]] in the VPC. [[AWS| AWS resources]] are deployed in the subnet.
 
 ## How to work with Amazon VPC ?
 

@@ -30,7 +30,7 @@ We may not be aware of it but Protocols are necessary even for human communicati
 5. Message delivery options
 ### Message Encoding
 
-![[Message Encoding]]
+![[Message Encoding Excal]]
 ### Message Formatting and Encapsulation
 
 This is the agreed format of the message, then encapsulating the information to identify the sender and the receiver correctly.
