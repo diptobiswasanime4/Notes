@@ -10,7 +10,7 @@ For reference,
 	
 	Mac address = Name of the person
 
-When two [[Computer|computers]] in a Network wants to talk to each other they need both [[IP address]] and MAC address:
+When two [[Computer|computers]] in a Network wants to talk to each other they need both [[IP Address]] and MAC address:
 
 1. Routers need IP address
 2. Switches need MAC address
