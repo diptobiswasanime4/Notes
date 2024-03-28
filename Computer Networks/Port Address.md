@@ -10,7 +10,7 @@ When two [[Computer|Computers]] in a Computer Network wants to interact with eac
 	2. Dynamic Port number - 64323. Assigned to a new process, like a new Google Chrome tab
 ## How Communication works ?
 
-1. Attach source IP address and dest. IP address. Required by Router
+1. Attach source IP address and dest. IP address. Required by [[Router]]
 2. Attach source MAC address and dest. MAC address. Required by Switch
 3. Attach source Port number and dest. Port number. Required by [[Operating System]]
 # Related Notes

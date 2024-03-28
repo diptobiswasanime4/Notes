@@ -7,9 +7,9 @@ AWS Site-to-Site VPN is a service that enables access to the remote network of t
 2. VPN tunnel
 3. Customer gateway
 4. Customer gateway device
-5. Target gateway
+5. Target gatewayf
 6. Virtual private gateway
-7. Transit gateway
+7. [[Transit gateway]]
 
 # Related Notes
 

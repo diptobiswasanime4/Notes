@@ -12,8 +12,8 @@ For reference,
 
 When two [[Computer|computers]] in a Network wants to talk to each other they need both [[IP Address]] and MAC address:
 
-1. Routers need IP address
-2. Switches need MAC address
+1. [[Router|Routers]] need IP address
+2. [[Switch|Switches]] need MAC address
 ## Features of MAC Address
 
 1. Every node in a LAN is identified by MAC address
