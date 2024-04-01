@@ -8,7 +8,7 @@ The problem is that the producer and consumer must work concurrently, so the con
 
 Example - A [[Compiler]] produces [[Assembly Language]] Code, which is consumed by an [[Assembler]]. The Assembler in turn produces object modules which is consumed by the loader.
 
-- One solution to the producer-consumer problem uses [[Shared Memory System]]
+- One solution to the [[Bounded-Buffer Problem|producer-consumer problem]] uses [[Shared Memory System]]
 - To allow producer and consumer processes to run [[Concurrency|concurrently]] we must have available buffer of items that can be filled by the producer and emptied by the consumer
 - The buffer will reside in a region of memory that is shared by the producer and consumer processes
 - A producer can produce one item while the consumer is consuming another item

@@ -1,6 +1,6 @@
 Created: March-22-2024
 
-Interrupt is a signal, emitted by a device attached to a [[Computer]]
+Interrupt is a [[Signal]], emitted by a device attached to a [[Computer]]
 
 The Operating System intervenes and determines what to do next.
 

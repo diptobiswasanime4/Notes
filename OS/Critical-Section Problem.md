@@ -18,9 +18,9 @@ The critical-section problem is about designing a [[Protocol]] that processes ca
 			Exit section
 				Remainder section
 		} while (True)
-## Requirements
+## Solution to Critical-Section Problem Satisfies Below Requirements
 
-1. Mutual exclusion
+1. Mutual exclusion - if a process Pi is executing in its critical section, no other process should
 2. Progress
 3. Bounded waiting
 # Related Notes
