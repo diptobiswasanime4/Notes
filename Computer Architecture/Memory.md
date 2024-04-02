@@ -30,3 +30,10 @@ Also called as Dynamic Random Access Memory (DRAM) is a random contiguous memory
 Compared to [[Random Access Memory (RAM)|RAM]] Cache is much faster but costly.
 
 They are also called Static Random Access Memory or (SRAM)
+
+![[Memory excal.excalidraw]]
+
+# Related Notes
+
+1. [[Computer Architecture]]
+2. [[Computer Organization]]

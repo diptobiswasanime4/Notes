@@ -20,6 +20,8 @@ The time taken by the entire process is called **Miss Latency**
 Now if the info is absent even in the Main memo, we call it **Page Fault**
 
 Lastly the process will try to find the info from the [[Secondary Memory|Secondary storage]]. This entire process is called **Page Fault Service** and the time taken is called **Page Fault Service Time**
+
+![[cache excal.excalidraw]]
 ## Locality of Reference
 
 Locality of Reference determines which data of the Main memory should be kept in the cache.

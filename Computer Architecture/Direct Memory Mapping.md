@@ -1,6 +1,8 @@
 Created: March-28-2024
 
 ![[Direct Memory Mapping excal.excalidraw]]
+
+![[bits excal.excalidraw]]
 # Related Notes
 
 1. [[Computer Architecture]]

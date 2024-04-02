@@ -8,6 +8,8 @@ Also,
 
 	Frame size = Page size
 
+Subdividing each process into page and then bringing them into the main memory is the job of the [[Operating System]]
+
 There is also a similar relationship between the [[Main Memory]] and the [[Cache]]
 
 The sub-divisions of the [[Main Memory]] in this case are called blocks, and the sub-divisions of the [[Cache]] are called lines.
@@ -15,6 +17,8 @@ The sub-divisions of the [[Main Memory]] in this case are called blocks, and the
 Again,
 
 	Line size = Block size
+
+![[memory relationship excal.excalidraw]]
 ### Word
 
 Smallest addressable memory unit is called **word**
