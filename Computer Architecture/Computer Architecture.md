@@ -18,3 +18,6 @@ fig. Harvard Architecture
 
 ![[Modified Harvard Architecture Excal]]
 fig. Modified Harvard Architecture
+# Related Notes
+
+1. [[Computer Organization]]

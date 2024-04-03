@@ -4,7 +4,7 @@ Memory is the faculty by which data or information is encoded, stored, and retri
 Example - files, images, other media files, etc.
 ## Processors
 
-Process store important memory in Registers.
+Process store important memory in [[Registers]]
 ## Types of Memory
 ### [[Main Memory|Primary Memory]]
 
