@@ -21,3 +21,4 @@ fig. Modified Harvard Architecture
 # Related Notes
 
 1. [[Computer Organization]]
+2. [[Computer Organization and Architecture (COA)]]

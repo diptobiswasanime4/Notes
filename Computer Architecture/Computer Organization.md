@@ -4,3 +4,4 @@ Computer Organization is the way a [[Processor|processor]] implements a set of i
 # Related Notes
 
 1. [[Computer Architecture]]
+2. [[Computer Organization and Architecture (COA)]]
