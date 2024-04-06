@@ -6,7 +6,7 @@ Binary Digits are called bits
 
 Bit is smallest unit of data
 
-1 Nibble = 4 bits (Used to represent Binary Coded Decimals (BCD) or Hexadecimal numbers)
+1 Nibble = 4 bits (Used to represent [[Binary Coded Decimal (BCD)]] or Hexadecimal numbers)
 1 Byte = 8 bits
 1 word = 16 bits = 2 bytes
 1 double word = 32 bits = 4 bytes
