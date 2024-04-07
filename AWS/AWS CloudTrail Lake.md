@@ -19,6 +19,7 @@ CloudTrail Lake queries offer a deep and more customizable view of events than r
 
 1. [[AWS Docs]]
 2. [[AWS]]
+3. [[AWS CloudTrail]]
 # References
 
 1. 

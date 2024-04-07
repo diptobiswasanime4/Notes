@@ -20,7 +20,7 @@ The capacity can be located in:
 2. [[Local zones]]
 3. Wavelength zones
 4. AWS Regions
-5. AWS Outposts
+5. [[AWS Outposts]]
 
 ### ECS Controller
 
