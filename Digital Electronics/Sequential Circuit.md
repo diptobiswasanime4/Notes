@@ -2,9 +2,11 @@ Created: April-03-2024
 
 In sequential circuits, the present output depends on the present input as well as past outputs.
 
+Example - Counter
+
 In [[Combinational Circuit|combinational circuits]] the present output depends only on the present input.
 
-So in sequential circuits, we need a memory to store the past outputs to be used as feedback along with the inputs.
+So in sequential circuits, we need a memory to store the past outputs to be used as feedback along with the inputs. The memory is stored in [[Flip-Flop|Flip-Flops]]
 # Related Notes
 
 1. [[Digital Electronics]]
