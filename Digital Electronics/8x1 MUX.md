@@ -1,9 +1,13 @@
 Created: April-09-2024
 
-![[Full Adder using Half Adder excal.excalidraw]]
+
+## Logic Gate
+
+
 # Related Notes
 
 1. [[Digital Electronics]]
+2. [[Multiplexer (MUX)]]
 # References
 
 1. 

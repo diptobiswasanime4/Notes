@@ -1,6 +1,9 @@
 Created: April-09-2024
 
-![[Full Adder using Half Adder excal.excalidraw]]
+![[4 Bit Parallel Adder excal.excalidraw]]
+## 8 Bit Full Adder
+
+
 # Related Notes
 
 1. [[Digital Electronics]]

@@ -1,6 +1,6 @@
 Created: April-09-2024
 
-![[Full Adder using Half Adder excal.excalidraw]]
+![[Half Adder Using NAND.excalidraw]]
 # Related Notes
 
 1. [[Digital Electronics]]
