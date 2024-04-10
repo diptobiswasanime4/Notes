@@ -47,7 +47,7 @@ Long messages must be broken into smaller pieces to travel across a network.
 3. Broadcast - Sender sends data to all participants in the network.
 # Related Notes
 
-1. 
+1. [[Computer Network]]
 # References
 
 1. Neso Academy
