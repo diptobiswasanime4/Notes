@@ -8,7 +8,7 @@ $\large q_o$ = Initial State
 F = Set of final states
 $\large \delta$ = Transition function from Q x $\sum$ $\longrightarrow$ Q
 
-![[DFA.png]]
+![[DFA excal.excalidraw]]
 
 Here,
 
@@ -35,6 +35,7 @@ If we resolve a problem that satisfies the opposite of our requirement, we can F
 # Related Notes
 
 1. [[Theory of Computation]]
+2. [[DFA vs NFA]]
 # References
 
 1. 
