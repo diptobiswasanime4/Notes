@@ -10,6 +10,7 @@ AWS AppSync enables developers to connect their applications and services to dat
 # Related Notes
 
 1. [[AWS Docs]]
+2. [[AWS]]
 # References
 
 1. 

@@ -2,6 +2,8 @@ Created: April-03-2024
 
 In this phase the high-level language is taken as an input string, and is then broken into tokens.
 
+Alphabets of the input String are called Lexemes and their associated functions are called Tokens.
+
 Below are the important tokens:
 
 1. Identifier - defined by programmers - variables
