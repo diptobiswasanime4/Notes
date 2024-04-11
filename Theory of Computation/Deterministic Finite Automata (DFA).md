@@ -30,7 +30,23 @@ When a String reaches a state from where there is no possibility of reaching a f
 
 While analyzing a DFA if we don't find which state some of the inputs should go, we can create a **Dead State**
 
+A state that only has outgoing transitions and no incoming transitions is called **Unreachable State**
+
 If we resolve a problem that satisfies the opposite of our requirement, we can Flip the states, final states to non-final states, and non-final states to final states to meet our requirements.
+## Real-life Example
+
+Vending Machine is a good example of DFA
+
+States:
+
+1. Dispensing
+2. Waiting for coins
+3. Selecting items
+
+Inputs:
+
+1. Insert coins
+2. Pressing buttons
 
 # Related Notes
 
