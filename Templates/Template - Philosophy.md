@@ -3,7 +3,7 @@ Created: {{date:MMMM-DD-YYYY}}
 
 # Related Notes
 
-1. [[Theory of Computation]]
+1. [[Philosophy]]
 # References
 
 1. 

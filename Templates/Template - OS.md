@@ -1,4 +1,4 @@
-Created: March-22-2024
+Created: {{date:MMMM-DD-YYYY}}
 
 
 # Related Notes
