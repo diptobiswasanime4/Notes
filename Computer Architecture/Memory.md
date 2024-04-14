@@ -1,6 +1,8 @@
 
 Memory is the faculty by which data or information is encoded, stored, and retrieved when required.
 
+Memory consists of a large [[Array]] of words or bytes, each with its own address
+
 Example - files, images, other media files, etc.
 ## Processors
 
