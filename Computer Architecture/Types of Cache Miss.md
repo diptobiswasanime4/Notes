@@ -10,6 +10,9 @@ Created: April-01-2024
 Cache miss 1, 2, 3 are called the 3Cs
 
 Among these Capacity Miss is the hardest to identify.
+
+When the Cache doesn't have data, it fails to read it, because it should first load it, this is called *Compulsory Miss*
+
 # Related Notes
 
 1. [[Computer Architecture]]

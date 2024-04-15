@@ -13,12 +13,12 @@ Created: April-15-2024
 6. Forward
 ## Cache Coherence Protocols
 
-1. Snooping-based Protocol or Bus-based Protocol
+1. [[Snooping-based Protocol]] or Bus-based Protocol
 	1. Write update - Write through
 	2. Write update - Write back
 	3. Write invalidate - Write through
 	4. Write invalidate - Write back
-2. Directory-based Protocol
+2. [[Directory-based Protocol]]
 
 
 # Related Notes

@@ -14,6 +14,13 @@ Now, the black screen that we see after turning on our computer before the [[Ope
 4. Execute [[BIOS (Basic Input Output System)|BIOS]] instructions
 5. Look for valid BOOT disk
 6. Load [[Operating System|OS]] on the RAM
+
+ROM can be classified into:
+
+1. Programmable ROM
+2. Erasable Programmable ROM
+3. Electrically Erasable Programmable ROM
+
 # Related Notes
 
 1. [[Computer Architecture]]

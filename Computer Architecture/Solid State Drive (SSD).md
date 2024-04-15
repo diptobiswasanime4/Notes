@@ -1,0 +1,10 @@
+Created: April-15-2024
+
+
+# Related Notes
+
+1. [[Computer Architecture]]
+2. [[Computer Organization]]
+# References
+
+1. 

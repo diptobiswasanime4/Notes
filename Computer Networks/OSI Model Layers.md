@@ -10,7 +10,10 @@ OSI Model consists of 7 layers from high-to-low-level:
 6. [[Data Link Layer]]
 7. [[Physical Layer]]
 
+![[OSI model.png]]
+
 Please Do Not Throw Sausage Pizza Away!
+
 # Related Notes
 
 1. [[Computer Network]]
