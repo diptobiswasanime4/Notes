@@ -2,7 +2,15 @@ Created: March-23-2024
 
 Physical layer is the lowest layer of the [[OSI Model Layers]]
 
-Physical Layer is responsible for transmitting bits over a medium. It also provides Electrical and Mechanical specifications.
+Physical Layer is responsible for transmitting bits over a medium. It also provides Electrical and Mechanical specifications. One of its major functions is to move data in the form of electromagnetic signals across the transmission medium.
+
+Physical layer converts data into [[Signal|signals]]
+
+Signals can be:
+
+1. Electrical signal
+2. Optical/ Light signal
+3. Microwave signal
 ## Services
 
 1. Physical characteristics of the media

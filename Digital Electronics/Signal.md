@@ -7,6 +7,7 @@ In EEE, a signal is a variation of Electrical quantity (I or V) with time.
 **Discrete Time Signal** is a signal which is defined for discrete intervals of time.
 
 **Digital Signal** is a signal which is defined for discrete time and magnitude.
+
 # Related Notes
 
 1. [[Digital Electronics]]
