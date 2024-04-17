@@ -10,10 +10,10 @@ Created: April-17-2024
 	3. CSMA/ CD
 	4. CSMA/ CA
 2. Controlled Access Protocol
-	1. Reservation
-	2. Polling
-	3. Token passing
-3. Channelization Protocol
+	1. [[Reservation]]
+	2. [[Polling]]
+	3. [[Token passing]]
+3. [[Channelization Protocol]]
 	1. FDMA
 	2. TDM
 	3. CDMA
