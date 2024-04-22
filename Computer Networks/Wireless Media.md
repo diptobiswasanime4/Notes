@@ -2,8 +2,8 @@ Created: April-16-2024
 
 Technologies:
 
-- WiFi
-- BlueTooth
+- [[Wireless Fidelity (WiFi)|WiFi]]
+- [[BlueTooth]]
 
 Wireless Media has the following limitations:
 

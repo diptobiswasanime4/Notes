@@ -12,7 +12,7 @@ A LAN is a computer network interconnecting [[Computer|computers]] within a limi
 LAN can be of 2 types:
 
 1. Wired LAN. Example - Ethernet
-2. Wireless LAN. Example - WiFi
+2. Wireless LAN. Example - [[Wireless Fidelity (WiFi)|WiFi]]
 ## Metropolitan Area Network (MAN)
 
 MAN is a computer network interconnecting users with Computer resources of the size of a Metro city.

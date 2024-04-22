@@ -1,5 +1,6 @@
 Created: March-22-2024
 
+IP means Internet Protocol
 ## Features
 
 1. Logical address

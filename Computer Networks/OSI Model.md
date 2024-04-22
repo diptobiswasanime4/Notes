@@ -1,6 +1,6 @@
 Created: March-23-2024
 
-OSI stands for Open System Interconnection.
+OSI stands for Open Systems Interconnection.
 
 OSI Model is for understanding and designing a Network Architecture that is flexible, robust and interoperable. It is developed by International Standards for Organizations (ISO)
 
