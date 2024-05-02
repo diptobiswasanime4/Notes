@@ -95,8 +95,8 @@ P1 ^CyHpRqmi
 		},
 		{
 			"type": "text",
-			"version": 251,
-			"versionNonce": 151826688,
+			"version": 253,
+			"versionNonce": 689491824,
 			"isDeleted": false,
 			"id": "CyHpRqmi",
 			"fillStyle": "solid",
@@ -116,7 +116,7 @@ P1 ^CyHpRqmi
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714282721063,
+			"updated": 1714667499406,
 			"link": null,
 			"locked": false,
 			"fontSize": 53.15149801614166,
@@ -146,10 +146,10 @@ P1 ^CyHpRqmi
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 499.2975769042969,
-		"scrollY": 377.2201232910156,
+		"scrollX": 557.079819251751,
+		"scrollY": 301.98372518605197,
 		"zoom": {
-			"value": 1
+			"value": 1.4500000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

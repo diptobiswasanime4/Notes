@@ -15,9 +15,24 @@ Time can be classified into:
 5. Waiting time - Time process is waiting for [[CPU]] (period of time)
 6. Response time - Time taken from arrival time to scheduling a process for the 1st time (period of time)
 
+![[CPU Scheduling Time.excalidraw]]
+
 TAT = CT - AT
 
 $\implies$ TAT = BT + WT
+
+In case of non-preemptive Algorithms, WT = RT
+## Popular Scheduling Algorithms
+
+1. [[Scheduling Algorithm - FCFS]]
+2. [[Scheduling Algorithm - SJF]]
+3. [[Scheduling Algorithm - SRTF]]
+
+## CPU Scheduling
+
+Picking up a process from a ready state and giving it to CPU is called CPU Scheduling
+
+STS with the help of Dispatcher will do the Scheduling
 
 
 # Related Notes
