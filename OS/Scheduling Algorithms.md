@@ -27,6 +27,12 @@ In case of non-preemptive Algorithms, WT = RT
 1. [[Scheduling Algorithm - FCFS]]
 2. [[Scheduling Algorithm - SJF]]
 3. [[Scheduling Algorithm - SRTF]]
+4. [[Scheduling Algorithm - Round Robin]]
+5. [[Scheduling Algorithm - Priority Scheduling]]
+6. [[Scheduling Algorithm - LJF]]
+7. [[Scheduling Algorithm - LRTF]]
+
+These Algorithms are used to measure each others performance
 
 ## CPU Scheduling
 
