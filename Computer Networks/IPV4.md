@@ -1,6 +1,8 @@
 Created: March-22-2024
 
 IP means Internet Protocol
+
+IPV4 $\longrightarrow$ 32 bits
 ## Features
 
 1. Logical address
