@@ -12,10 +12,15 @@ Every state on $\in$ goes to itself, unless mentioned otherwise
 
 ![[Epsilon NFA Intro excal.excalidraw]]
 
+Every DFA is NFA, so we can convert *NFA* to *DFA*
+
+Every NFA is epsilon-NFA, so we can convert *epsilon-NFA* to *NFA*
 
 # Related Notes
 
 1. [[Theory of Computation]]
+2. [[Deterministic Finite Automata (DFA)]]
+3. [[Non-Deterministic Finite Automata (NFA)]]
 # References
 
 1. 

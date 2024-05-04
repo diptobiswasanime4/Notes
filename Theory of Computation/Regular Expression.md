@@ -1,5 +1,11 @@
 Created: March-22-2024
 
+Important Operators:
+
+1. $\large +$ is Union
+2. $\large .$ is Concat
+3. $\large *$ is Kleene Closure
+
 Regular Expressions are used for representing certain sets of strings in an Algebraic fashion.
 
 1. Any terminal symbol, including ^ and $\large \phi$ are Regex

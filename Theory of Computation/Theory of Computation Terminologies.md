@@ -5,13 +5,13 @@ Created: March-22-2024
 Any character is a symbol. Example - a, b, 1, 0, etc.
 ## Alphabet
 
-A Collection of symbols is called Alphabet $\sum$ Example - {a, b}, {a, b, 0, 1}, etc.
+A finite Collection of symbols is called Alphabet $\sum$ Example - {a, b}, {a, b, 0, 1}, etc.
 ## String
 
 Sequence of symbols is called string. Example - a, b, 1, 0, ab, aaa, etc.
 ## Language
 
-Set of strings is called a Language.
+Set of strings over an Alphabet is called a Language. Can be *finite* or *infinite* (Even English is also a Language according to this definition over Alphabets A-Z)
 
 Example - We have Alphabet $\sum$ = {0, 1}
 
