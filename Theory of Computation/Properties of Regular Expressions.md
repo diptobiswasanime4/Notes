@@ -30,6 +30,11 @@ Both $+$ and . are Associative
 2. R + (S.T) $\neq$ (R + S)(R + T) (not always)
 
 $+$ is Distributive but . is not
+## Identity
+
+1. r + $\phi$ = r = $\phi$ + r
+
+2. r.$\in$ = r = $\in$.r
 
 
 

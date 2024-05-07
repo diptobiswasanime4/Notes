@@ -1,5 +1,9 @@
 Created: March-22-2024
 
+Given a language there can be many DFA, NFA and RE
+
+But given a RE there can only be 1 language
+
 Important Operators:
 
 1. $\large +$ is Union
