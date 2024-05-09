@@ -1,20 +1,20 @@
 Created: May-07-2024
 
-There were 4 guards, one of them is Mitch, and Dane, all walking through the forest. The guards had torches. They were escorting him outside. The forest didn't look as scary in the presence of company.
+There were 4 guards, one of them is Mitch, and Dane, all were walking through the forest. The guards had torches. They were escorting him outside. The forest didn't look as scary in the presence of few company.
 
 "So Dane, I heard you and Shane grew up together, you were such good friends. So why did Shane all of a sudden kick you out? Looks odd to me", Mitch asked Dane.
 
-"Same idea", Dane sighed. "I have no idea Mitch, what wrong did I do? Do you have any idea?"
+"No idea", Dane sighed. "I have no idea Mitch, what wrong did I do? Do you have any idea?"
 
 "Me?", Mitch laughed. "What a funny question? How do I know what's happening between the two of you?"
 
-"Even I don't know. So I'm asking you. You may have some idea. Being in charge of the Military. Or have some hunch or intuition if nothing else."
+"Even I don't know. So I'm asking you. You may have some idea. Being in charge of the Military, you may have some hunch or intuition if nothing else."
 
 "You're saying puny guards like us, the Military", Mitch laughed hard. The other guards were stoic. "You're funny man! I have no idea."
 
 "Oh that's too bad."
 
-"But if you talk about intuition. Checka's sister is really good at this. I didn't know you were such good friends. You have a great talent of making good friends everywhere I must tell you."
+"But if you talk about intuition. Checka's sister very good at this. I didn't know you were such good friends. You have a great talent of making good friends everywhere I must tell you."
 
 "Thanks a lot. But she didn't say anything. She only gave me a blank piece of paper."
 
