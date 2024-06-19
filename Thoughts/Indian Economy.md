@@ -6,8 +6,10 @@ But one thing, that is not often mentioned is that the Indian Economy also carri
 
 Per Capita:
 
+150$ - 35 years ago
 250-300$ - 30 years ago
 500$ - 25 years ago
+700$ - 20 years ago
 1000$ - 15 years ago
 1500$ - 10 years ago
 2000$ - 5 years ago
@@ -15,6 +17,7 @@ Per Capita:
 3000$ - 2025-2026, also when reaching the total Economy of 5-trillion $
 4000$ - By end of this decade, about to become an early stage Upper-Middle-Income-Economy
 5000-6000$ - By early next decade, an Upper-Middle-Income-Economy
+7000$ - By next 10 years
 
 We will start to see sea-changes in the Indian Society only when India becomes an Upper-Middle-Income-Economy, i.e. when our per capita GDP becomes in the 4000-5000$ range. Visible poverty will become non-existent, which unfortunately still exists almost everywhere although visibly reducing.
 

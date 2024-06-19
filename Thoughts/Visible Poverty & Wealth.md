@@ -20,7 +20,7 @@ Specifically for India, since we're suffering from multi-dimensional poverty alt
 
 With the right intent, Visible Poverty can be eradicated even with 100$ per capita income, considering Poverty is only due to lack of wealth!
 
-And with the lack of intent, Visible Poverty exists even with 1000000$ per capita income (1 million)
+And with the lack of intent, Visible Poverty exists even with 1000000$ (1 million $) per capita income
 
 ___
 
