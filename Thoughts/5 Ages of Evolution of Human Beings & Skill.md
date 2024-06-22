@@ -17,7 +17,7 @@ Let's formally name the 5 Ages as:
 1. Age of Strength or Pre-Stone Age (around 2 million years)
 2. Age of Intelligence or Stone-Age (around 50 thousand years till 15000 BCE-ish)
 3. Age of Tradition or Age of Culture or Age of Agriculture (around 10 thousand years, 15000-5000 BCE-ish)
-4. Age of Philosophy or Age of Civilization (5000 BCE-ish to 2000 AD)
+4. Age of Philosophy or Age of Civilization or *Age of Empires* (5000 BCE-ish to 2000 AD)
 5. Age of Leisure or Age of Tech or Digital Age (1000 years, 2000-3000 AD, could be more)
 
 # Related Notes
