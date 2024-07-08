@@ -1,5 +1,7 @@
 Created: July-04-2024
 
+Top leagues:
+
 | Sl No. | Game         | Teams count  | Matches per two teams             | Matches per team                      | Total Matches                           | Number of Foreign Players |
 | ------ | ------------ | ------------ | --------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------- |
 | 0      | Rugby        | 6            | 2                                 | 10                                    | 30 + 4 = 34                             | -                         |
@@ -14,6 +16,13 @@ Created: July-04-2024
 | 9      | Car Racing   | NA           | NA                                | NA                                    | NA                                      | NA                        |
 | 10     | Lawn Tennis  | NA           | NA                                | NA                                    | NA                                      | NA                        |
 | 11     | -            | -            | -                                 | -                                     | -                                       | -                         |
+
+Lower Divisions:
+
+| Sl No. | Game                  | Teams count | Matches per two teams | Matches per team | Total Matches | Number of Foreign Players |
+| ------ | --------------------- | ----------- | --------------------- | ---------------- | ------------- | ------------------------- |
+| 1      | Football 2nd Division | 53          | 1                     | 52               | 1378          | 3 + 1 + 4 + 3 = 11        |
+
 
 # Related Notes
 
