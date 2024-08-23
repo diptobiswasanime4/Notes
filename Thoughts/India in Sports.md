@@ -8,6 +8,7 @@ Team Sports:
 4. Kabaddi
 5. Volleyball
 6. Basketball
+7. Rugby
 
 Individual Sports:
 
