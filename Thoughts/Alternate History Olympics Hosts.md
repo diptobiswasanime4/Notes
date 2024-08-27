@@ -58,7 +58,7 @@ List 2:
 15. 1952 - Dublin (Ireland)
 16. 1956 - Calcutta (British Raj)
 17. 1960 - Prague (Czechia)
-18. 1964 - Montevideo (Uruguay)
+18. 1964 - Johannesburg (South Africa)
 19. 1968 - Vienna (Austria)
 20. 1972 - Mexico City (Mexico)
 21. 1976 - Moscow (Russia)

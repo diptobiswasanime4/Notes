@@ -49,6 +49,37 @@ Created: August-21-2024
 7. Captain Sachin Rajesh Pilot (1 term) - 2045-2052
 8. K. Annamalai (1 term) - 2052-2059
 
+## List 6
+
+1. Lal Krishna Advani (1 + 2 terms) - 1999-2009
+2. Pranab Mukherjee (2 terms) - 2009-2017
+3. Narendra Damodardas Modi (2 terms) - 2017-2025
+4. Nitin Jairam Gadkari (2 terms) - 2025-2033
+5. Yogi Adityanath (3 terms) - 2033-2045
+6. Captain Sachin Rajesh Pilot (2 terms) - 2045-2053
+7. K. Annamalai (2 terms) - 2053-2061
+
+## List 7
+
+0. Lal Krishna Advani (1 + 1 terms) - 1999-2007
+1. Pranab Mukherjee (1 term) - 2007-2013
+2. Sanjay Gandhi (1 term) - 2013-2019
+3. Narendra Damodardas Modi (1 term) - 2019-2025
+4. Nitin Jairam Gadkari (1 term) - 2025-2031
+5. Shivraj Singh Chouhan (1 term) - 2031-2037
+6. Yogi Adityanath (2 terms) - 2037-2049
+7. Captain Sachin Rajesh Pilot (1 term) - 2049-2055
+8. K. Annamalai (1 term) - 2055-2061
+
+## List 8 (good list)
+
+1. Atal Bihari Vajpayee (1 + 1 terms) - 1992-2002
+2. Lal Krishna Advani (2 terms) - 2002-2012
+3. Narendra Damodardas Modi (2 terms) - 2012-2022
+4. Nitin Jairam Gadkari (2 terms) - 2022-2032
+5. Yogi Adityanath (3 terms) - 2032-2047
+6. K. Annamalai (3 terms) - 2047-2062
+
 # Related Notes
 
 1. 

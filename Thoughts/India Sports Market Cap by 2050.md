@@ -31,6 +31,14 @@ Created: August-21-2024
 	1. Teams - 16
 	2. Matches - 31
 	3. Stadiums - 12
+6. Volleyball World Cup
+	1. Teams - 128 + 128
+	2. Matches - 255 + 255
+	3. Stadiums - 100
+7. Basketball World Cup
+	1. Teams - 128 + 128
+	2. Matches - 255 + 255
+	3. Stadiums - 100
 
 # Related Notes
 
