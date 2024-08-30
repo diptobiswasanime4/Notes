@@ -16,10 +16,11 @@ Created: August-29-2024
 1. Ajmer (1200)
 2. Vijayanagar + Delhi (1550)
 3. Pune (1700)
-4. Prayagraj (1860)
-5. Calcutta (1920)
-6. New Delhi (1950)
-7. Kolkata (1990)
+4. Lahore (1850)
+5. Prayagraj (1860)
+6. Calcutta (1920)
+7. New Delhi (1950)
+8. Kolkata (1990)
 
 # Related Notes
 

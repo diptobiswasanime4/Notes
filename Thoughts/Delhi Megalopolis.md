@@ -60,17 +60,17 @@ Olympics Host Cost - 1 trillion $ (realistic - 100 billion $)
 ## India Capitals List
 
 0. Shambhala
-1. New Pataliputra + Shambhala
+1. New Pataliputra
 2. Thanjavur
 3. Vijayanagar
 4. Delhi + Vijayanagar
 5. Pune
-6. Prayagraj
-7. Calcutta
-8. Delhi
-9. Delhi + Ayodhya
-10. New Pataliputra
-11. New Pataliputra + Ayodhya
+6. Lahore
+7. Prayagraj
+8. Calcutta
+9. Delhi
+10. Delhi + Ayodhya
+11. New Pataliputra
 12. Dwarka + Somnath
 13. Ayodhya
 14. Varanasi
