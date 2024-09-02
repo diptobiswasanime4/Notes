@@ -6,6 +6,10 @@ During the late Kaliyuga India battled a 100000-year-long invasion (300000-40000
 
 She of course couldn't survive it. From her exile she's waiting for the Lord to descend.
 
+World Population - 15 billion
+Indians Population - 500 million
+Daemons Population - Unknown
+
 # Related Notes
 
 1. 
