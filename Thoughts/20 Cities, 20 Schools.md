@@ -26,7 +26,7 @@ Timeline - 1943-2100
 15. Guwahati
 16. Kabul
 17. Great Nicobar Island + Little Andaman Island
-18. Singapore
+18. Indrapuri
 19. Aryanagar
 20. Suryanagar
 ## Schools
@@ -93,10 +93,10 @@ Timeline - 1943-2100
 14. Guwahati
 15. Kabul
 16. Great Nicobar Island + Little Andaman Island
-17. Singapore
+17. Indrapuri
 18. Aryanagar
 19. Suryanagar
-20. Indrapuri
+20. Singapore
 ## Schools
 
 Name - Indian Institute of Indigenous Innovation & Ideas (I5)
