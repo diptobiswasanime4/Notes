@@ -12,8 +12,8 @@ Timeline - 1943-2100
 ## Cities
 
 1. Delhi
-2. Kolkata
-3. Mumbai
+2. Mumbai
+3. Kolkata
 4. Chennai
 5. Lahore
 6. Karachi
@@ -61,7 +61,7 @@ Score validity - 3 yrs.
 8. Indian Institute of Tech. (IIT)
 9. Indian Institute of Engineering (IIE)
 10. Indian Institute of Natural Scs. (IIN)
-11. Indian Institute of Ocean Scs. & Engineering (IIO)
+11. Indian Institute of Ocean Sciences & Engineering (IIO)
 12. Indian Institute of Design (IID)
 13. Indian Institute of Business (IIB)
 14. Indian Institute of Finance (IIF)
@@ -70,7 +70,7 @@ Score validity - 3 yrs.
 17. Indian Institute of Intelligence Studies (III/ I3)
 18. Indian Institute of Yog (IIY)
 19. Indian Institute of eXcellence (IIX)
-20. Indian Institute of Zillion Studies (IIZ)
+20. Indian Institute of Vedic Studies (IIV)
 21. Indian Institute of Hospitality & Mgt. (IIH)
 22. Indian Institute of 64 Kala (IIK)
 23. Indian Institute of Linguistics (IIL)

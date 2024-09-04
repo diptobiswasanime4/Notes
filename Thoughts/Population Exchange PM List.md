@@ -12,17 +12,22 @@ Created: September-02-2024
 
 Name - Indian Institute of Indigenous Innovation & Ideas (I5)
 
-0. Indian School of Energy (ISE)
-1. Indian School of Space Scs. (ISS)
-2. Indian School of Defence (ISD)
-3. Indian School of Tech. (IST)
-4. Indian School of Medicine (ISM)
-5. Indian School of Business (ISB)
-6. Indian School of Computer Sc. (ISC)
-7. Indian School of Law (ISL)
-8. Indian School of Art (ISA)
-9. Indian School of Governance (ISG)
-10. Indian School of Natural Scs. (ISN)
+0. Indian Institute of War (IIW)
+1. Indian Institute of Chip Design & Research (IIC)
+2. Indian Institute of Space Scs. (IIS)
+3. Indian Institute of Energy (IIE)
+4. Indian Institute of Digital Tech. & Design (IID)
+5. Indian Institute of Tech. (IIT)
+6. Indian Institute of Natural Scs. (IIN)
+7. Indian Institute of Business (IIB)
+8. Indian Institute of Justice (IIJ)
+9. Indian Institute of Medicine (IIM)
+10. Indian Institute of Intelligence Studies (III/ I3)
+11. Indian Institute of Psychic Studies (IIY)
+12. Indian Institute of Art (IIA)
+13. Indian Institute of Foreign Affairs & Diplomacy (IIF)
+14. Indian Institute of Urban-planning & City-building (IIU)
+15. Indian Institute of Governance Studies (IIG)
 ## List
 
 1. Jawaharlal Nehru (1 + 3 terms) - 1947-1967
