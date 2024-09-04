@@ -10,12 +10,19 @@ Created: September-02-2024
 5. Nagpur
 ## Schools
 
-0. Indian School of Tech. (IST)
-1. Indian School of Medicine (ISM)
-2. Indian School of Business (ISB)
-3. Indian School of Defence (ISD)
-4. Indian School of Law (ISL)
-5. Indian School of Governance (ISG)
+Name - Indian Institute of Indigenous Innovation & Ideas (I5)
+
+0. Indian School of Energy (ISE)
+1. Indian School of Space Scs. (ISS)
+2. Indian School of Defence (ISD)
+3. Indian School of Tech. (IST)
+4. Indian School of Medicine (ISM)
+5. Indian School of Business (ISB)
+6. Indian School of Computer Sc. (ISC)
+7. Indian School of Law (ISL)
+8. Indian School of Art (ISA)
+9. Indian School of Governance (ISG)
+10. Indian School of Natural Scs. (ISN)
 ## List
 
 1. Jawaharlal Nehru (1 + 3 terms) - 1947-1967
