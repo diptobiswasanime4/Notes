@@ -13,7 +13,7 @@ Created: September-02-2024
 Name - Indian Institute of Indigenous Innovation & Ideas (I5)
 
 0. Indian Institute of War (IIW)
-1. Indian Institute of Chip Design & Research (IIC)
+1. Indian Institute of Chip Design & Manufacturing (IIC)
 2. Indian Institute of Space Scs. (IIS)
 3. Indian Institute of Energy (IIE)
 4. Indian Institute of Digital Tech. & Design (IID)
