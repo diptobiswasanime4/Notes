@@ -51,6 +51,11 @@ Total Scholars in Percentage - 0.01%
 Area - 15 sq. km (avg.)
 Quota - Open
 
+___
+
+Name - National Institute of Mind Sciences (NIMS)
+Start Year - 2025
+
 # Related Notes
 
 1. 
