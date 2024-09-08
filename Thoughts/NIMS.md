@@ -56,6 +56,12 @@ ___
 Name - National Institute of Mind Sciences (NIMS)
 Start Year - 2025
 
+___
+
+Name - National Institute of Mind Sciences (NIMS)
+Start Timeline - 2014-2040 (25 yrs.)
+End Timeline - 2040-3050 (1010 yrs.)
+
 # Related Notes
 
 1. 
