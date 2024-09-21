@@ -23,7 +23,7 @@ Population Density - 600 people/ sq. km
 
 ## Schools
 
-Name - Indian Institute of Creativity Studies (IIC)
+Name - Indian Institute of Creativity Studies (IIC/ IICS)
 Intake - 3000
 Intake (Total) - 10000
 Total Candidates - 20 million
