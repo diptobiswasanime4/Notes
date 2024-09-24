@@ -3,7 +3,9 @@ Created: September-24-2024
 - Creates Illusion, Delusion, Confusion, etc.
 - Rahu is head without body (thinks of ideas, doesn't care about how to do it)
 - Creates Attachment, but doesn't give Fulfilment
-- Signifies Meteoric Rise (also Fall)
+- Gives a lot of Courage
+- Causes eclipse to Sun
+- Signifies Meteoric Rise (also Fall), can dominate enemies
 - Rahu is IT, Tech, Media, etc. (industries where Customers have no idea of the Backend, they only see the Cosmetic Frontend)
 
 ## Effects in 12 Houses
