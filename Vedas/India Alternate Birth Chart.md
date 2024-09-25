@@ -9,6 +9,7 @@ Time - 15th August, 1947, 12 AM
 
 Time - 3rd June, 1948, 9 PM
 
+![[India Alternate Birth Chart.png]]
 
 # Related Notes
 
