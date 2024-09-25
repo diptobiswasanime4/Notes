@@ -4,8 +4,9 @@ Created: September-24-2024
 - Rahu is head without body (thinks of ideas, doesn't care about how to do it)
 - Creates Attachment, but doesn't give Fulfilment
 - Gives a lot of Courage
+- Associated with Taboo Subjects, Obsession, Addiction, etc.
 - Causes eclipse to Sun
-- Signifies Meteoric Rise (also Fall), can dominate enemies
+- Signifies Meteoric Rise (also Fall), sudden expansion, can dominate enemies
 - Rahu is IT, Tech, Media, etc. (industries where Customers have no idea of the Backend, they only see the Cosmetic Frontend)
 
 ## Effects in 12 Houses
