@@ -7,15 +7,15 @@ Created: September-23-2024
 ![[My Birth Chart.png]]
 ## Planets (and Drishti)
 
-1. Sun - 7th
-2. Moon - 7th
-3. Venus - 7th
-4. Jupiter - 5th, 7th, 9th
-5. Saturn - 3rd, 7th, 10th
-6. Mercury - 7th
-7. Mars - 4th, 7th, 8th
-8. Rahu - 5th, 7th, 9th
-9. Ketu - 5th, 7th, 9th
+1. Sun (leadership) - 7th
+2. Moon (emotions) - 7th
+3. Venus (passion) - 7th
+4. Jupiter (knowledge) - 5th, 7th, 9th
+5. Saturn (hardwork) - 3rd, 7th, 10th
+6. Mercury (intelligence) - 7th
+7. Mars (war) - 4th, 7th, 8th
+8. Rahu (mischief) - 5th, 7th, 9th
+9. Ketu (detachment) - 5th, 7th, 9th
 
 ## Rashi/ Zodiac (and their Lords)
 

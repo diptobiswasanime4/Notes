@@ -1,5 +1,6 @@
 Created: September-24-2024
 
+- Signifies Modern India
 - Creates Illusion, Delusion, Confusion, etc.
 - Rahu is head without body (thinks of ideas, doesn't care about how to do it)
 - Creates Attachment, but doesn't give Fulfilment
