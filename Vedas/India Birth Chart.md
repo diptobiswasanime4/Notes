@@ -5,10 +5,15 @@ Created: October-02-2024
 - However Modern India has Rahu Lagna
 
 ![[India Birth Chart.png]]
+## Zodiac
+
+- Taurus - very stable
 
 # Related Notes
 
-1. 
+1. [[Chart Reading]]
+2. [[Jyotish]]
+3. [[India Alternate Birth Chart]]
 # References
 
 1. 
