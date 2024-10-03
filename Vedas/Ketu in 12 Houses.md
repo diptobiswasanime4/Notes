@@ -1,6 +1,7 @@
 Created: September-24-2024
 
 - Signifies Detachment, Spirituality, Let go
+- Also signifies Radicalization, Terrorism
 - Has no head, hence no ego, no eyes, hence sees and says things of another World
 - Curious, also Confused, needs help or guidance from somebody (Jupiter is the best)
 - Has connection with past Life
