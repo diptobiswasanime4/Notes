@@ -45,7 +45,7 @@ Created: September-23-2024
 9. 9th House - Luck, Father, Guru, Dharma
 10. 10th House - Karma, Profession
 11. 11th House - Desire, Achievement, Social Circle, Friends
-12. 12th House - Enlightenment, Death, Expenses
+12. 12th House - Enlightenment, Isolation, Foreign travel, Death, Expenses
 
 
 # Related Notes
