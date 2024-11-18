@@ -9,13 +9,22 @@ Timeline:
 
 Capital - Delhi/ Ayodhya
 Timeline (Phase 1) - 2014-2047
-Timeline (Phase 2) - 2047-2099
+Timeline (Phase 2) - 2047-2100
+Timeline (Phase 3) - 2100-2114
+
 Year - 2047
+
 GDP - 55 trillion $
-Population - 1.6 billion
-Population (Urban) - 1.1 billion (70%)
-Population (Rural) - 500 million (30%)
-GDP (per Capita) - 35000$
+Stock Market - 100 trillion $
+Total Assets - 1 quadrillion $
+GDP (PPP) - 165 trillion $
+GDP (per Capita) - 33000$
+GDP (per Capita by PPP) - 100000$
+
+Population - 1.65 billion
+Population Density - 500 people/ sq. km
+Population (Urban) - 75%
+Population (Rural) - 25%
 TFR - 2
 
 ## Cities (2047)

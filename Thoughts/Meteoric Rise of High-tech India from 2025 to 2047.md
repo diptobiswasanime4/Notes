@@ -1,6 +1,6 @@
 Created: November-18-2024
 
-Timeline:
+## Industrial Revolution
 
 1. Industry 1.0 - 1760-1860
 2. Industry 2.0 - 1860-1940
@@ -8,14 +8,20 @@ Timeline:
 4. Industry 4.0 - 2020-2100
 
 Capital - Delhi/ Ayodhya
-Timeline (Phase 1) - 2014-2047
-Timeline (Phase 2) - 2047-2099
+Timeline (Phase 0) - 1947-2025
+Timeline (Phase 1) - 2025-2047
+Timeline (Phase 2) - 2047-2100
+
 Year - 2047
 GDP - 55 trillion $
-Population - 1.6 billion
-Population (Urban) - 1.1 billion (70%)
-Population (Rural) - 500 million (30%)
-GDP (per Capita) - 35000$
+Stock Market - 100 trillion $
+Total Assets - 300 trillion $
+GDP (per Capita) - 33000$
+
+Population - 1.65 billion
+Population Density - 500 people/ sq. km
+Population (Urban) - 75%
+Population (Rural) - 25%
 TFR - 2
 
 ## Cities (2047)
@@ -27,16 +33,6 @@ TFR - 2
 5. Pune
 6. Chennai
 7. Kolkata
-
-## Cities (1947)
-
-1. Calcutta
-2. Bombay
-3. Madras
-4. Lahore
-5. Karachi
-6. Dhaka
-7. Delhi
 
 # Related Notes
 
