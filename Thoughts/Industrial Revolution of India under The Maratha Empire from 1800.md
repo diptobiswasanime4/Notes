@@ -28,12 +28,17 @@ TFR - 3
 2. Sambhaji
 3. _
 
-## Cities
+## Cities (1800)
 
 1. Pune
 2. Mumbai
 3. Nagpur
 4. Kolhapur
+
+## Cities (2000)
+
+1. Goa
+2. Great Nicobar Island
 
 ___
 
@@ -43,6 +48,16 @@ Stock Market - 300 trillion $
 Total Assets - 1 quadrillion $
 Population - 400 million
 GDP (per Capita) - 250000$
+Population Density - 100 people/ sq.km
+
+___
+
+Timeline - 1800-??
+GDP - 20 trillion $
+Stock Market - 75 trillion $
+Total Assets - 150 trillion $
+Population - 400 million
+GDP (per Capita) - 50000$
 Population Density - 100 people/ sq.km
 
 # Related Notes
